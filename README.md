@@ -1,4 +1,4 @@
-Heic2Png is a Python script that converts annoying HEIC image files into PNG files with Pillow
+Heic2Png is a Python script that converts annoying HEIC image files into PNG files using multithread with Pillow
 
 requirements
 ```bash
