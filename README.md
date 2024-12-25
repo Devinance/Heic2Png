@@ -2,5 +2,5 @@ Heic2Png is a Python script that converts annoying HEIC image files into PNG fil
 
 requirements
 ```bash
-pip install pillow pillow-heif
+pip install pillow pillow-heif tk-tools
 ```
