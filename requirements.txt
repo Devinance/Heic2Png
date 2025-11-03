@@ -1,3 +1,6 @@
-pillow 
-pillow-heif 
-tk-tools
+# Core dependencies
+Pillow>=10.0.0
+pillow-heif>=0.13.0
+
+# Optional dependencies
+# tkinterdnd2>=0.3.0  # For drag-and-drop support (optional, uncomment if needed)

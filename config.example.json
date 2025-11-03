@@ -1,0 +1,11 @@
+{
+    "input_dir": "input",
+    "output_dir": "output",
+    "quality": 90,
+    "thread_count": 7,
+    "batch_size": 10,
+    "output_format": "PNG",
+    "window_width": 550,
+    "window_height": 500,
+    "remember_last_dirs": true
+}
